@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2014-08-31</Date>
+			<Time>14:29:32.6869597-06:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20140825_193805_00.xef</Clip>
+			<StartFrame>556</StartFrame>
+			<EndFrame>1400</EndFrame>
+			<ID>e3c71ad1-97eb-44ab-83ba-d509014c465d</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>568</CurrentFrameStart>
+			<CurrentFrameEnd>569</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>0</Start>
+					<End>0</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>702</Start>
+					<End>748</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>823</Start>
+					<End>872</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>951</Start>
+					<End>1000</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>1081</Start>
+					<End>1147</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ClappingHands" Type="FLOAT" />
+					<Start>1204</Start>
+					<End>1236</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="701">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="702">
+					<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="746">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+				</Items>
+				<Items Frame="747">
+					<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="749">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="823">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="870">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+				</Items>
+				<Items Frame="871">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="951">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="996">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+				</Items>
+				<Items Frame="999">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="1081">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="1139">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+				</Items>
+				<Items Frame="1146">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="1204">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+				<Items Frame="1234">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+				</Items>
+				<Items Frame="1235">
+					<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="695">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="696">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="697">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="698">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="699">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="700">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="701">
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="702">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="703">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.04549944" />
+			</Items>
+			<Items Frame="704">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.09301281" />
+			</Items>
+			<Items Frame="705">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.14239609" />
+			</Items>
+			<Items Frame="706">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.19350529" />
+			</Items>
+			<Items Frame="707">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.24619651" />
+			</Items>
+			<Items Frame="708">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.30032551" />
+			</Items>
+			<Items Frame="709">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.35574865" />
+			</Items>
+			<Items Frame="710">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.41232157" />
+			</Items>
+			<Items Frame="711">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.46990049" />
+			</Items>
+			<Items Frame="712">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.52834129" />
+			</Items>
+			<Items Frame="713">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.5875" />
+			</Items>
+			<Items Frame="714">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.64723265" />
+			</Items>
+			<Items Frame="715">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.7073952" />
+			</Items>
+			<Items Frame="716">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.76784372" />
+			</Items>
+			<Items Frame="717">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.82843411" />
+			</Items>
+			<Items Frame="718">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.88902247" />
+			</Items>
+			<Items Frame="719">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.94946468" />
+			</Items>
+			<Items Frame="720">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.00961685" />
+			</Items>
+			<Items Frame="721">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.069335" />
+			</Items>
+			<Items Frame="722">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.12847471" />
+			</Items>
+			<Items Frame="723">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.18689275" />
+			</Items>
+			<Items Frame="724">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.24444437" />
+			</Items>
+			<Items Frame="725">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.300986" />
+			</Items>
+			<Items Frame="726">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.35637355" />
+			</Items>
+			<Items Frame="727">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.410463" />
+			</Items>
+			<Items Frame="728">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.46311045" />
+			</Items>
+			<Items Frame="729">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.5141716" />
+			</Items>
+			<Items Frame="730">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.56350279" />
+			</Items>
+			<Items Frame="731">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.61095977" />
+			</Items>
+			<Items Frame="732">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.65639877" />
+			</Items>
+			<Items Frame="733">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.69967556" />
+			</Items>
+			<Items Frame="734">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.74064612" />
+			</Items>
+			<Items Frame="735">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.7791667" />
+			</Items>
+			<Items Frame="736">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.815093" />
+			</Items>
+			<Items Frame="737">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.84828138" />
+			</Items>
+			<Items Frame="738">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.87858748" />
+			</Items>
+			<Items Frame="739">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.90586758" />
+			</Items>
+			<Items Frame="740">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.92997742" />
+			</Items>
+			<Items Frame="741">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.95077324" />
+			</Items>
+			<Items Frame="742">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.9681108" />
+			</Items>
+			<Items Frame="743">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.98184633" />
+			</Items>
+			<Items Frame="744">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.99183559" />
+			</Items>
+			<Items Frame="745">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.99793482" />
+			</Items>
+			<Items Frame="746">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+			</Items>
+			<Items Frame="747">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingStart" Value="1" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="748">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="749">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="750">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="751">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="752">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="753">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="754">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="755">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="756">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Clapands" Value="true" />
+			</Items>
+			<Items Frame="821">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="822">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="823">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="824">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.0185107" />
+			</Items>
+			<Items Frame="825">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.04086065" />
+			</Items>
+			<Items Frame="826">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.06686378" />
+			</Items>
+			<Items Frame="827">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.09633374" />
+			</Items>
+			<Items Frame="828">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.12908411" />
+			</Items>
+			<Items Frame="829">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.16492879" />
+			</Items>
+			<Items Frame="830">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.20368147" />
+			</Items>
+			<Items Frame="831">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.24515593" />
+			</Items>
+			<Items Frame="832">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.28916585" />
+			</Items>
+			<Items Frame="833">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.33552492" />
+			</Items>
+			<Items Frame="834">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.384047" />
+			</Items>
+			<Items Frame="835">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.43454564" />
+			</Items>
+			<Items Frame="836">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.48683476" />
+			</Items>
+			<Items Frame="837">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.540728" />
+			</Items>
+			<Items Frame="838">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.596039" />
+			</Items>
+			<Items Frame="839">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.65258169" />
+			</Items>
+			<Items Frame="840">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.71016967" />
+			</Items>
+			<Items Frame="841">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.7686168" />
+			</Items>
+			<Items Frame="842">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.82773662" />
+			</Items>
+			<Items Frame="843">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.887343" />
+			</Items>
+			<Items Frame="844">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.94724965" />
+			</Items>
+			<Items Frame="845">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.00727034" />
+			</Items>
+			<Items Frame="846">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.06721854" />
+			</Items>
+			<Items Frame="847">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.1269083" />
+			</Items>
+			<Items Frame="848">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.18615341" />
+			</Items>
+			<Items Frame="849">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.24476719" />
+			</Items>
+			<Items Frame="850">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.302564" />
+			</Items>
+			<Items Frame="851">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.35935664" />
+			</Items>
+			<Items Frame="852">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.41496" />
+			</Items>
+			<Items Frame="853">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.46918678" />
+			</Items>
+			<Items Frame="854">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.5218513" />
+			</Items>
+			<Items Frame="855">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.572767" />
+			</Items>
+			<Items Frame="856">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.621748" />
+			</Items>
+			<Items Frame="857">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.66860747" />
+			</Items>
+			<Items Frame="858">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.71315956" />
+			</Items>
+			<Items Frame="859">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.755218" />
+			</Items>
+			<Items Frame="860">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.79459643" />
+			</Items>
+			<Items Frame="861">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.83110857" />
+			</Items>
+			<Items Frame="862">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.864568" />
+			</Items>
+			<Items Frame="863">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.89478874" />
+			</Items>
+			<Items Frame="864">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.92158437" />
+			</Items>
+			<Items Frame="865">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.94476843" />
+			</Items>
+			<Items Frame="866">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.9641552" />
+			</Items>
+			<Items Frame="867">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.97955775" />
+			</Items>
+			<Items Frame="868">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.99079037" />
+			</Items>
+			<Items Frame="869">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.9976666" />
+			</Items>
+			<Items Frame="870">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+			</Items>
+			<Items Frame="871">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="872">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="873">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="874">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="875">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="876">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="877">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="949">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="950">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="951">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="952">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.01821589" />
+			</Items>
+			<Items Frame="953">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.04071951" />
+			</Items>
+			<Items Frame="954">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.06729484" />
+			</Items>
+			<Items Frame="955">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.097726" />
+			</Items>
+			<Items Frame="956">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.131797" />
+			</Items>
+			<Items Frame="957">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.16929185" />
+			</Items>
+			<Items Frame="958">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.20999467" />
+			</Items>
+			<Items Frame="959">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.25368929" />
+			</Items>
+			<Items Frame="960">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.30016" />
+			</Items>
+			<Items Frame="961">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.34919071" />
+			</Items>
+			<Items Frame="962">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.40056539" />
+			</Items>
+			<Items Frame="963">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.45406818" />
+			</Items>
+			<Items Frame="964">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.509483" />
+			</Items>
+			<Items Frame="965">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.566594" />
+			</Items>
+			<Items Frame="966">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.62518513" />
+			</Items>
+			<Items Frame="967">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.68504059" />
+			</Items>
+			<Items Frame="968">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.74594414" />
+			</Items>
+			<Items Frame="969">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.80768" />
+			</Items>
+			<Items Frame="970">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.87003219" />
+			</Items>
+			<Items Frame="971">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.93278468" />
+			</Items>
+			<Items Frame="972">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.99572146" />
+			</Items>
+			<Items Frame="973">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.05862665" />
+			</Items>
+			<Items Frame="974">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.12128448" />
+			</Items>
+			<Items Frame="975">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.18347859" />
+			</Items>
+			<Items Frame="976">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.24499321" />
+			</Items>
+			<Items Frame="977">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.30561233" />
+			</Items>
+			<Items Frame="978">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.36512" />
+			</Items>
+			<Items Frame="979">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.42330027" />
+			</Items>
+			<Items Frame="980">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.47993731" />
+			</Items>
+			<Items Frame="981">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.53481483" />
+			</Items>
+			<Items Frame="982">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.587717" />
+			</Items>
+			<Items Frame="983">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.63842821" />
+			</Items>
+			<Items Frame="984">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.68673182" />
+			</Items>
+			<Items Frame="985">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.73241234" />
+			</Items>
+			<Items Frame="986">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.77525377" />
+			</Items>
+			<Items Frame="987">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.81504" />
+			</Items>
+			<Items Frame="988">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.851555" />
+			</Items>
+			<Items Frame="989">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.88458323" />
+			</Items>
+			<Items Frame="990">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.91390824" />
+			</Items>
+			<Items Frame="991">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.93931413" />
+			</Items>
+			<Items Frame="992">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.960585" />
+			</Items>
+			<Items Frame="993">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.97750521" />
+			</Items>
+			<Items Frame="994">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.98985839" />
+			</Items>
+			<Items Frame="995">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.99742866" />
+			</Items>
+			<Items Frame="996">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+			</Items>
+			<Items Frame="997">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.48671031" />
+			</Items>
+			<Items Frame="998">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.52897608" />
+			</Items>
+			<Items Frame="999">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="1000">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1001">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1002">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1003">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1004">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1068">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1069">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1070">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1071">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1072">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1073">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1074">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1075">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1076">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1077">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1078">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1079">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1080">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1081">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="1082">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.01556039" />
+			</Items>
+			<Items Frame="1083">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.03360534" />
+			</Items>
+			<Items Frame="1084">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.05403709" />
+			</Items>
+			<Items Frame="1085">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.07675827" />
+			</Items>
+			<Items Frame="1086">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.10167122" />
+			</Items>
+			<Items Frame="1087">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.12867856" />
+			</Items>
+			<Items Frame="1088">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.15768278" />
+			</Items>
+			<Items Frame="1089">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.18858624" />
+			</Items>
+			<Items Frame="1090">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.2212913" />
+			</Items>
+			<Items Frame="1091">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.25570071" />
+			</Items>
+			<Items Frame="1092">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.29171681" />
+			</Items>
+			<Items Frame="1093">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.32924211" />
+			</Items>
+			<Items Frame="1094">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.368179" />
+			</Items>
+			<Items Frame="1095">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.40843" />
+			</Items>
+			<Items Frame="1096">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.44989765" />
+			</Items>
+			<Items Frame="1097">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.49248433" />
+			</Items>
+			<Items Frame="1098">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.53609252" />
+			</Items>
+			<Items Frame="1099">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.5806247" />
+			</Items>
+			<Items Frame="1100">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.62598348" />
+			</Items>
+			<Items Frame="1101">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.6720711" />
+			</Items>
+			<Items Frame="1102">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.71879029" />
+			</Items>
+			<Items Frame="1103">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.76604319" />
+			</Items>
+			<Items Frame="1104">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.81373262" />
+			</Items>
+			<Items Frame="1105">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.86176085" />
+			</Items>
+			<Items Frame="1106">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.91003048" />
+			</Items>
+			<Items Frame="1107">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.95844376" />
+			</Items>
+			<Items Frame="1108">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.00690341" />
+			</Items>
+			<Items Frame="1109">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.055312" />
+			</Items>
+			<Items Frame="1110">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.10357141" />
+			</Items>
+			<Items Frame="1111">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.15158463" />
+			</Items>
+			<Items Frame="1112">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.19925427" />
+			</Items>
+			<Items Frame="1113">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.24648237" />
+			</Items>
+			<Items Frame="1114">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.29317164" />
+			</Items>
+			<Items Frame="1115">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.33922434" />
+			</Items>
+			<Items Frame="1116">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.38454318" />
+			</Items>
+			<Items Frame="1117">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.42903066" />
+			</Items>
+			<Items Frame="1118">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.472589" />
+			</Items>
+			<Items Frame="1119">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.515121" />
+			</Items>
+			<Items Frame="1120">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.55652881" />
+			</Items>
+			<Items Frame="1121">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.59671521" />
+			</Items>
+			<Items Frame="1122">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.63558245" />
+			</Items>
+			<Items Frame="1123">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.673033" />
+			</Items>
+			<Items Frame="1124">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.70896935" />
+			</Items>
+			<Items Frame="1125">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.743294" />
+			</Items>
+			<Items Frame="1126">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.77590966" />
+			</Items>
+			<Items Frame="1127">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.80671859" />
+			</Items>
+			<Items Frame="1128">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.835623" />
+			</Items>
+			<Items Frame="1129">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.862526" />
+			</Items>
+			<Items Frame="1130">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.88732934" />
+			</Items>
+			<Items Frame="1131">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.909936" />
+			</Items>
+			<Items Frame="1132">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.93024826" />
+			</Items>
+			<Items Frame="1133">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.94816875" />
+			</Items>
+			<Items Frame="1134">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.96359968" />
+			</Items>
+			<Items Frame="1135">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.97644377" />
+			</Items>
+			<Items Frame="1136">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.98660326" />
+			</Items>
+			<Items Frame="1137">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.993981" />
+			</Items>
+			<Items Frame="1138">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.998479" />
+			</Items>
+			<Items Frame="1139">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+			</Items>
+			<Items Frame="1140">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.89298058" />
+			</Items>
+			<Items Frame="1141">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.6160574" />
+			</Items>
+			<Items Frame="1142">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.235434" />
+			</Items>
+			<Items Frame="1143">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.81731331" />
+			</Items>
+			<Items Frame="1144">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.42789865" />
+			</Items>
+			<Items Frame="1145">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.13339317" />
+			</Items>
+			<Items Frame="1146">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="1147">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1148">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1149">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1150">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1151">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1152">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1153">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1200">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1201">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1202">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1203">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1204">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="1205">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.02775586" />
+			</Items>
+			<Items Frame="1206">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.06507742" />
+			</Items>
+			<Items Frame="1207">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.11122727" />
+			</Items>
+			<Items Frame="1208">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.165468" />
+			</Items>
+			<Items Frame="1209">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.22706234" />
+			</Items>
+			<Items Frame="1210">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.29527271" />
+			</Items>
+			<Items Frame="1211">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.369362" />
+			</Items>
+			<Items Frame="1212">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.44859254" />
+			</Items>
+			<Items Frame="1213">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.53222728" />
+			</Items>
+			<Items Frame="1214">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.61952865" />
+			</Items>
+			<Items Frame="1215">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.70975924" />
+			</Items>
+			<Items Frame="1216">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.80218184" />
+			</Items>
+			<Items Frame="1217">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.89605892" />
+			</Items>
+			<Items Frame="1218">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1.99065316" />
+			</Items>
+			<Items Frame="1219">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.08522725" />
+			</Items>
+			<Items Frame="1220">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.17904377" />
+			</Items>
+			<Items Frame="1221">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.2713654" />
+			</Items>
+			<Items Frame="1222">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.36145449" />
+			</Items>
+			<Items Frame="1223">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.448574" />
+			</Items>
+			<Items Frame="1224">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.53198647" />
+			</Items>
+			<Items Frame="1225">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.61095452" />
+			</Items>
+			<Items Frame="1226">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.68474078" />
+			</Items>
+			<Items Frame="1227">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.75260782" />
+			</Items>
+			<Items Frame="1228">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.81381822" />
+			</Items>
+			<Items Frame="1229">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.86763477" />
+			</Items>
+			<Items Frame="1230">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.91331983" />
+			</Items>
+			<Items Frame="1231">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.95013642" />
+			</Items>
+			<Items Frame="1232">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.977347" />
+			</Items>
+			<Items Frame="1233">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="2.99421382" />
+			</Items>
+			<Items Frame="1234">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="3" />
+			</Items>
+			<Items Frame="1235">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="ClappingHands" Value="1" />
+			</Items>
+			<Items Frame="1236">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1237">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1238">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1239">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1240">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+			<Items Frame="1241">
+				<Items xsi:type="BoolAttribute" Name="ClapHands" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
